@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Mathew Sayed"
+	"author": "Mathew Sayed",
+	"description": "Managing NPM packages"
 }
