@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Mathew Sayed",
-	"description": "Managing NPM packages"
+	"description": "Managing NPM packages",
+	"keywords": ["FreeCodeCamp", "Node", "NPM"]
 }
